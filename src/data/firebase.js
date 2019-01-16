@@ -2,12 +2,12 @@ import firebase from 'firebase';
 
 // Initialize Firebase
 var config = {
-apiKey: "AIzaSyCmIY5XWzXpf_03MbLzqVmk-umR3zVvjaY",
-authDomain: "project6-ivs.firebaseapp.com",
-databaseURL: "https://project6-ivs.firebaseio.com",
-projectId: "project6-ivs",
-storageBucket: "project6-ivs.appspot.com",
-messagingSenderId: "336359386002"
+	apiKey: "AIzaSyCYR0IpN0Z3NryJyBc5656t3Rs6kEnv81A",
+	authDomain: "intergalatic-visitors-system.firebaseapp.com",
+	databaseURL: "https://intergalatic-visitors-system.firebaseio.com",
+	projectId: "intergalatic-visitors-system",
+	storageBucket: "intergalatic-visitors-system.appspot.com",
+	messagingSenderId: "486297608332"
 };
 firebase.initializeApp(config);
 
